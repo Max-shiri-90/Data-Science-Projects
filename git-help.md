@@ -1,3 +1,5 @@
+### An Instruction to Connect Your PC to Your Github Account
+
 
 * install git on your computer
 
@@ -34,8 +36,8 @@
     ```
 
 * create a repository
-        > yourgithub -> repositories -> New -> name -> Create repository
-        
+    > yourgithub -> repositories -> New -> name -> Create repository
+
 * Clone the repository on your pc
     > your-repository -> code -> copy ssh-url
     ```
