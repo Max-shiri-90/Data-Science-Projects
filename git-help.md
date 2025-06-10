@@ -1,8 +1,12 @@
 1 - install git on your computer
 2 - config git on your pc
 
+```
 git config --global user.name "Your_Username_for_GitHub"
+```
+```
 git config --global user.email "Your_email@something.com"
+```
 
 3 - make an ssh key
 
